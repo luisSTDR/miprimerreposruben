@@ -1,5 +1,6 @@
 Este es un archivo índice de información de mi primer repositorio.
 
 --
-
+Índice.txt
+README.md
 --
